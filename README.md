@@ -12,4 +12,4 @@ Agreeing to Kazakoff & Mitchell, ***"Students who have a fixed mindset are often
 
 And you can read more about the Growth Mindset by visitng [Growth Mindset](https://www.renaissance.com/edwords/growth-mindset/)
 
-This is my first page 
+This is my first page on GitHub. Done by Leen Barakat a second year software engineering student from ASAC. 
