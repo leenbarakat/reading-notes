@@ -7,4 +7,4 @@ Hello, my name is Leen Barakat I'm 20 years old this is my second year in ASAC I
 -----------|----------
  Growth Mindset | [GrowthMindset](https://leenbarakat.github.io/reading-notes/Growthmindset) 
 Read1 | [Mastering Markdown](https://leenbarakat.github.io/reading-notes/Read1)
-
+Read2 | [Git Tutorial](https://github.com/leenbarakat/reading-notes/Read2)
