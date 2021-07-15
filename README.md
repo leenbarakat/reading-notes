@@ -8,3 +8,7 @@ Hello, my name is Leen Barakat I'm 20 years old this is my second year in ASAC I
  Growth Mindset | [GrowthMindset](https://leenbarakat.github.io/reading-notes/Growthmindset) 
 Read1 | [Mastering Markdown](https://leenbarakat.github.io/reading-notes/Read1)
 Read2 | [Git Tutorial](https://github.com/leenbarakat/reading-notes/Read2)
+Read3 | [HTML](https://leenbarakat.github.io/reading-notes/Read3)
+Read4 | [JavaScript](https://leenbarakat.github.io/reading-notes/Read4)
+Read5 | [JS expressions and operators](https://leenbarakat.github.io/reading-notes/Read5)
+Read6 | [CSS](https://leenbarakat.github.io/reading-notes/Read6)
