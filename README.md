@@ -19,7 +19,7 @@ Read7 | [Functions](https://leenbarakat.github.io/reading-notes/Read7)
  File name | Link 
 -----------|----------
 class1 | [HTML & MarkDown & JS](https://leenbarakat.github.io/reading-notes/class-01) 
-class2 | [Haedings & CSS & Loops & Conditions](https://leenbarakat.github.io/reading-notes/class-02)
+class2 | [Haedings & CSS & Loops & Conditions](https://leenbarakat.github.io/reading-notes/class-02)[HTML Lists, CSS Boxes, JS Control Flow](https://leenbarakat.github.io/reading-notes/class-03)
 class3 |
 class4 |
 class5 |
