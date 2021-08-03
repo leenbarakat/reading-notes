@@ -18,7 +18,7 @@ Read7 | [Functions](https://leenbarakat.github.io/reading-notes/Read7)
 
  File name | Link 
 -----------|----------
-class1 | [HTML & MarkDown & JS ](https://leenbarakat.github.io/reading-notes/class-01) 
+class1 | [HTML & MarkDown & JS](https://leenbarakat.github.io/reading-notes/class-01) 
 class2 |
 class3 |
 class4 |
