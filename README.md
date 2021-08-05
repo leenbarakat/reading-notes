@@ -22,7 +22,7 @@ class1 | [HTML & MarkDown & JS](https://leenbarakat.github.io/reading-notes/clas
 class2 | [Haedings & CSS & Loops & Conditions](https://leenbarakat.github.io/reading-notes/class-02)
 class3 | [HTML Lists, CSS Boxes, JS Control Flow](https://leenbarakat.github.io/reading-notes/class-03)
 class4 | [HTML Links, CSS Layout, JS Functions](https://leenbarakat.github.io/reading-notes/class-04)
-class5 |
+class5 | [HTML Images; CSS Color & Text](https://leenbarakat.github.io/reading-notes/class-04)
 class6 |
 class7 |
 class8 |
