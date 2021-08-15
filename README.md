@@ -24,10 +24,10 @@ class3 | [HTML Lists, CSS Boxes, JS Control Flow](https://leenbarakat.github.io/
 class4 | [HTML Links, CSS Layout, JS Functions](https://leenbarakat.github.io/reading-notes/class-04)
 class5 | [HTML Images; CSS Color & Text](https://leenbarakat.github.io/reading-notes/class-05)
 class6 | [Problem Domain, Objects, and the DOM](https://leenbarakat.github.io/reading-notes/class-06)
-class7 |
-class8 |
-class9 |
-class10 |
+class7 | [Tables in HTML](https://leenbarakat.github.io/reading-notes/class-07)
+class8 | [Website Layout](https://leenbarakat.github.io/reading-notes/class-08)
+class9 | [HTML forms](https://leenbarakat.github.io/reading-notes/class-09)
+class10 | [Errors in JavaScript and how  to handle them](https://leenbarakat.github.io/reading-notes/class-10)
 class11 |
 class12 |
 class13 |
