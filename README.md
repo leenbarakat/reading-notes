@@ -28,7 +28,7 @@ class7 | [Tables in HTML](https://leenbarakat.github.io/reading-notes/class-07)
 class8 | [Website Layout](https://leenbarakat.github.io/reading-notes/class-08)
 class9 | [HTML forms](https://leenbarakat.github.io/reading-notes/class-09)
 class10 | [Errors in JavaScript and how  to handle them](https://leenbarakat.github.io/reading-notes/class-10)
-class11 |
+class11 | []
 class12 |
 class13 |
 class14 |

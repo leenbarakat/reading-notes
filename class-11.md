@@ -46,3 +46,64 @@ However, we suggest using the style attribute. It prevents styles sheets from ch
 ![m](https://www.wikitechy.com/css/img/css-images/css-background-image-size.png)
 
 to read more about images in HTML visit [HTML imgs](https://www.w3schools.com/html/html_images.asp)
+
+# HTML audio
+
+The HTML < audio > Element
+
+To play an audio file in HTML, use the < audio > element
+
+HTML Audio - How It Works
+The controls attribute adds audio controls, like play, pause, and volume.
+
+The < source > element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.
+
+The text between the < audio > and </ audio > tags will only be displayed in browsers that do not support the < audio > element.
+
+
+![audio](https://res.cloudinary.com/practicaldev/image/fetch/s--MA5hKls8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wh2li7815smb450m1c19.png)
+
+## HTML < audio > Autoplay
+
+To start an audio file automatically, use the autoplay attribute
+
+![m](https://www.wikitechy.com/step-by-step-html-tutorials/attributes/img/attributes-images/code-explanation-autoplay-attribute-in-html.png)
+
+## Browser Support
+
+The numbers in the table specify the first browser version that fully supports the <audio> element
+
+![z](https://cdn-media-1.freecodecamp.org/images/1*pHYI6GbxxHUL5A_FDTdK1A.png)
+
+# HTML video
+
+The HTML < video > element is used to show a video on a web page.
+
+The HTML < video > Element
+
+To show a video in HTML, use the < video > element
+
+![m](https://www.simplilearn.com/ice9/free_resources_article_thumb/html-video-tag.PNG)
+
+How it Works
+
+The controls attribute adds video controls, like play, pause, and volume.
+
+It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
+
+The < source > element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
+
+The text between the < video > and < /video > tags will only be displayed in browsers that do not support the < video > element.
+
+HTML video formats and which browsers support them 
+
+![m](https://cdn-media-1.freecodecamp.org/images/1*pHYI6GbxxHUL5A_FDTdK1A.png)
+
+HTML Video - Methods, Properties, and Events
+
+The HTML DOM defines methods, properties, and events for the < video > element.
+
+This allows you to load, play, and pause videos, as well as setting duration and volume.
+
+There are also DOM events that can notify you when a video begins to play, is paused, etc.
+
